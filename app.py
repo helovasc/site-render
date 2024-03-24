@@ -7,4 +7,4 @@ def index ():
 
 @app.route("/teste")
 def teste():
-  return 'Essa página é um teste'
+  return "Essa página é um teste"
